@@ -1,0 +1,16 @@
+name = "Horror Mods"
+author = "LPbigFish"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0928df3985184443a57008acf2b071d1f747e07296134d4fa5738cc9d0c81436"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
+
+[options]
+acceptable-game-versions = []

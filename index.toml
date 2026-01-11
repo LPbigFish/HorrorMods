@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "589b370ffcef405a00daafc5bfa6febaeafef81aa797a3cb63a49555db90fd76"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "4c96dddf8b3d5bf5ea331459b13d23d7d37332dea2275c00ef755420a66676c4"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
+metafile = true
+
+[[files]]
+file = "mods/xenon-forge.pw.toml"
+hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
+metafile = true
