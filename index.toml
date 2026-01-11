@@ -1,13 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -17,30 +32,50 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "a66ce8fdd15abadd17b5d3d62e5bca0afe8209c081c8be1407b0e6166c8714d9"
+hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "589b370ffcef405a00daafc5bfa6febaeafef81aa797a3cb63a49555db90fd76"
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+file = "mods/lithium.pw.toml"
+hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "87e786392dd8d3cdc535448a894399b5e7e66647c9c80aaa451628b11d288675"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4c96dddf8b3d5bf5ea331459b13d23d7d37332dea2275c00ef755420a66676c4"
+hash = "38aa99dcb8b2371b04716226723ab30b8954fcc80a503d20c12fc7fc519f26e9"
 metafile = true
 
 [[files]]
-file = "mods/the-man-from-the-fog.pw.toml"
-hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
-file = "mods/xenon-forge.pw.toml"
-hash = "1f7936bd08b3d5a2ff346c01d6e398aa33183a45796ba5d1a8d98758561fcf7e"
+file = "mods/the-man-from-the-fog-fabric.pw.toml"
+hash = "deb57400bbf420f5c08198a75ded1a3f6418cbe5ca3e1fd1584d759efe019c1d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d33719fa79b683a327acafbe1e2617482b5a3272fd471bb822a72314d3cd511f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
 metafile = true
